@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{Marz_BVZ_ESM}
+S.~Marz and B.~V. Zanden, ``Reducing power consumption and latency in mobile
+  devices using an event stream model,'' {\em ACM Trans. Embed. Comput. Syst.},
+  vol.~16, pp.~11:1--11:24, Oct. 2016.
+
+\bibitem{8413093}
+S.~{Marz}, B.~T. {Vander Zanden}, and W.~{Gao}, ``Reducing event latency and
+  power consumption in mobile devices by using a kernel-level display server,''
+  {\em IEEE Transactions on Mobile Computing}, pp.~1--1, 2018.
+
+\bibitem{Marz2018ReducingPC}
+S.~Marz, ``Reducing power consumption and latency in mobile devices by using a
+  gui scheduler,'' 2018.
+
+\end{thebibliography}
